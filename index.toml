@@ -131,11 +131,6 @@ hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
 metafile = true
 
 [[files]]
-file = "mods/create-trading-floor.pw.toml"
-hash = "1b7e14317bc324ac08736eb154458a463715fdbc59bd556999893b58129eebf8"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
 metafile = true
