@@ -1,0 +1,13 @@
+name = "Spectral Sync"
+filename = "spectral-sync-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D74WPyd2/versions/HnRFbrzt/spectral-sync-1.0.0.jar"
+hash-format = "sha512"
+hash = "a4cab85aa42413c621b23a18fbbe00cff0d5e25a77b6095fd6ab6f5cc82a5a984a741ed28a09618ba4eddce097fbe946a56e18836c59ca9a34e6b0ad073f5b8d"
+
+[update]
+[update.modrinth]
+mod-id = "D74WPyd2"
+version = "HnRFbrzt"

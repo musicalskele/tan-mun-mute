@@ -1,0 +1,13 @@
+name = "Amecs"
+filename = "amecs-1.4.0+mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/9BRqBVZY/amecs-1.4.0%2Bmc1.20.jar"
+hash-format = "sha512"
+hash = "d78af79994181321cfdd59d241e4a2e1dd12c2aab9a001fae9a4c0724ed90940e6bb99c3fd9ddee5785838e09118584290483b1f5a563924d59274ae8723033d"
+
+[update]
+[update.modrinth]
+mod-id = "rcLriA4v"
+version = "9BRqBVZY"
