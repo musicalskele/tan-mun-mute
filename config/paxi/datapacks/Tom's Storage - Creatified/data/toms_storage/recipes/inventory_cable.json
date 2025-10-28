@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+		"item": "create:brass_sheet"
+		},
+		{
+			"item": "minecraft:dried_kelp"
+		},
+		{
+			"item": "create:brass_sheet"
+		}
+	],
+	"result": {
+		"item": "toms_storage:ts.inventory_cable",
+		"count": 6
+	}
+}

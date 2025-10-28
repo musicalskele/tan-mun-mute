@@ -1,8 +1,137 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/builtinservers.json"
+hash = "2c01069c4455d16c998d9f2ec986068c6bd693e6d2adde8eef2c7db234683245"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "68d450eed29e9c95fcb41fec9842f1506df0d9200ad69fda31bc6e1b96f9c08c"
+
+[[files]]
+file = "config/paxi/datapacks/Better_Hephaestus_v1.0.zip"
+hash = "647ffa059717400c8250a4aab9eef0caf7ca2111dee3cc7a6f8532240eb1df27"
+
+[[files]]
+file = "config/paxi/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
+hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/adv_wireless_terminal.json"
+hash = "a4aa11adf79fe5f52176ac9d3c88169bdc75915cbb62a951640fa31dbe2ef611"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/adv_wireless_terminal_from_smithing.json"
+hash = "e91da97544eba08fe02ad21795ae0534619d4aa48a812c7b2ee383e9e67d5684"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/crafting_terminal.json"
+hash = "a9200f2aaf9783c43937e6c44781ba36eefb72eab07a04dac1fdeacda9ea29e6"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/inventory_cable.json"
+hash = "3be5f0180eddc999b4649b437c370066b8d9f40a6002358dc31e614b1c3107aa"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/inventory_cable_connector.json"
+hash = "75b952249d2cc0af7ba56f1c7fa5a09dbb97d98d9f81441190cb3d188f0cfc82"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/inventory_cable_connector_filtered.json"
+hash = "ce4f8a539676af7d95de83ae06ccd39944aa78a765494a00079398b868e25205"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/inventory_connector.json"
+hash = "a2fab55f210d70a719b8ad71f7175709a29be86245b8d30a36daa161e820bcf2"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/inventory_hopper_basic.json"
+hash = "676dd1288df547d613dad7f5e9efa9a0b930c4177b3d1695f268c7a695a18e83"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/inventory_proxy.json"
+hash = "9389445e66cb9df3821486336c32b60b294e7ad3e0cfb991b5e4c18c5e81ce0c"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/item_filter.json"
+hash = "34ac465cc805cf425a7c58ae8d107a102cb5c67f256cc96dcd7f2ee00040a456"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/level_emitter.json"
+hash = "ae02530a68d2f5cefffa11780589b6ae8c05901ffe9cbd3ac92624192f7478b7"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/open_crate.json"
+hash = "2910445ae3bddae72a9b49a3bc8888e5d5672adab37e938078ff36f2991c5fa8"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/poly_item_filter.json"
+hash = "a39c61ed33d8c82508e56946e3f1ba43c472f8785d50683cbf4c0996a2fa75f6"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/storage_terminal.json"
+hash = "f12d6c5a50a2a84a5ae8fb1cca64c597e46e1bb1b110048870a8475b190a379a"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/tag_item_filter.json"
+hash = "b2003adb38c9e49aee5434e8a4f2a029d30ad98f9b3019f8d311d68acc7ac175"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/trim.json"
+hash = "2fbdc49ce8df99fe03e4172a6d2e4c1b32a92239d0268604b2a74d4b0f51050c"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/data/toms_storage/recipes/wireless_terminal.json"
+hash = "6552c1555133d5e67a04b4123ce3250eb10a1df32fd4d9cad9a9929a1a883b93"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified/pack.mcmeta"
+hash = "eb3550759791490ed45bb74f296384085c0d88d5753c22876b112a86d8dbc560"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "b25f8b7cb2dc019cbb72db90900c136c2c19a163400415262582d1ec927245d9"
+
+[[files]]
+file = "config/paxi/resourcepacks/3d Toms Create Storage.zip"
+hash = "88acc00e8b95cd01f6aacba871e4fdf0148ebefc6e2c584f6836a2c6e340c7a7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Create LootR Chest.zip"
+hash = "7fb629100934a4a335010765c8466cdf5bdd3bbea7c36194f328a25e45a43a1f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Create+Simple+Storage+2.1.zip"
+hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
+
+[[files]]
+file = "config/paxi/resourcepacks/ccc.zip"
+hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
+
+[[files]]
+file = "files.txt"
+hash = "a0da6cf3d04a33da9935a8a797bad8aed8033c4cc1185402bc7efceec2ca4cb5"
+
+[[files]]
+file = "index.toml_files.txt"
+hash = "a0da6cf3d04a33da9935a8a797bad8aed8033c4cc1185402bc7efceec2ca4cb5"
+
+[[files]]
+file = "kubejs/server_scripts/misc/chat_sounds.js"
+hash = "32444717e7dc4c8064c008362da6dab708e3dbaba2acae3c0c29c9183e5b04f5"
+
+[[files]]
+file = "kubejs/startup_scripts/misc/modname.js"
+hash = "64049d5a65e7ef2b4daa40986961f9cecc945a0e2f9327ebec68ba4865fa21e2"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
 metafile = true
 
 [[files]]
@@ -68,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "4398ab598bb4c28c32c7de835a64054936959e4e0c6a17d147a26c41c0536645"
 metafile = true
 
 [[files]]
@@ -411,6 +545,11 @@ hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "2a711640965e11d418b4678beeebac1ea502e2f8d9a198af53c455d798c39683"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
@@ -528,6 +667,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "6e5a8f947f77a0a9cf18347edd01a08fc725c2ecaa10cf61e6b429a54e50a463"
 metafile = true
 
 [[files]]

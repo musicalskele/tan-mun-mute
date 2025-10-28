@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X ",
+		"CIC",
+		" O "
+	],
+	"key": {
+		"O": {
+			"item": "create:brass_hand"
+		},
+		"C": {
+			"item": "minecraft:chest"
+		},
+		"X": {
+			"item": "create:electron_tube"
+		},
+		"I": {
+			"item": "create:brass_casing"
+		}
+	},
+	"result": {
+		"item": "toms_storage:ts.inventory_connector"
+	}
+}

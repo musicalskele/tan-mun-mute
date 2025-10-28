@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" L ",
+		"CIC",
+		"   "
+	],
+	"key": {
+		"I": {
+			"item": "toms_storage:ts.inventory_cable"
+		},
+		"C": {
+			"item": "create:brass_sheet"
+		},
+		"L": {
+			"item": "create:analog_lever"
+		}
+	},
+	"result": {
+		"item": "toms_storage:ts.level_emitter"
+	}
+}

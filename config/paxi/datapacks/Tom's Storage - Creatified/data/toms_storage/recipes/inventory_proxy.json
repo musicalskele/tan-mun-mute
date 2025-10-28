@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" S ",
+		"O#O",
+		" I "
+	],
+	"key": {
+		"#": {
+			"item": "create:brass_casing"
+		},
+		"O": {
+			"item": "create:brass_hand"
+		},
+		"I": {
+			"item": "create:redstone_link"
+		},
+		"S": {
+			"item": "create:electron_tube"
+		}
+	},
+	"result": {
+		"item": "toms_storage:ts.inventory_proxy"
+	}
+}

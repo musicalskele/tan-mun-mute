@@ -1,0 +1,13 @@
+name = "Builtin Servers"
+filename = "builtin-servers-2.1+1.20-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IupkwRPf/versions/6QfolMkF/builtin-servers-2.1%2B1.20-fabric.jar"
+hash-format = "sha512"
+hash = "b70cd959934a2dfa15c1ee18574797ad47437a084b1043956bc07d1a0cc79853b6cbe5398d74979653b4fb491719766f675c208ee1b590fbf75df4da4614377d"
+
+[update]
+[update.modrinth]
+mod-id = "IupkwRPf"
+version = "6QfolMkF"

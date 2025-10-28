@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PSP",
+		"ACA",
+		"PSP"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:chest"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"A": {
+			"item": "create:andesite_alloy"
+		},
+		"P": {
+			"tag": "minecraft:planks"
+		}
+	},
+	"result": {
+		"item": "toms_storage:ts.open_crate"
+	}
+}

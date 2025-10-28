@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		"ISH",
+		"   "
+	],
+	"key": {
+		"I": {
+			"item": "toms_storage:ts.inventory_cable"
+		},
+		"S": {
+			"item": "create:brass_sheet"
+		},
+		"H": {
+			"item": "create:brass_hand"
+		}
+	},
+	"result": {
+		"item": "toms_storage:ts.inventory_cable_connector"
+	}
+}

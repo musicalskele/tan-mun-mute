@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X ",
+		"CIG",
+		" X "
+	],
+	"key": {
+		"C": {
+			"item": "create:redstone_link"
+		},
+		"X": {
+			"item": "create:electron_tube"
+		},
+		"I": {
+			"item": "create:brass_casing"
+		},
+		"G": {
+			"item": "minecraft:glass"
+		}
+	},
+	"result": {
+		"item": "toms_storage:ts.storage_terminal"
+	}
+}

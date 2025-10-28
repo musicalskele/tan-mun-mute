@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ZSZ",
+		"SCS",
+		"ZSZ"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:chest"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"Z": {
+			"item": "create:zinc_ingot"
+		}
+	},
+	"result": {
+		"item": "toms_storage:ts.trim"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X ",
+		"A#I",
+		" G "
+	],
+	"key": {
+		"#": {
+			"item": "create:brass_casing"
+		},
+		"X": {
+			"item": "create:electron_tube"
+		},
+		"I": {
+			"item": "toms_storage:ts.storage_terminal"
+		},
+		"G": {
+			"item": "create:linked_controller"
+		},
+		"A": {
+			"item": "minecraft:crafting_table"
+		}
+	},
+	"result": {
+		"item": "toms_storage:ts.crafting_terminal"
+	}
+}

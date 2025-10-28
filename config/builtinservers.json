@@ -1,0 +1,10 @@
+{
+    "badgeVisible":true,
+    "builtinServers":[
+        {
+            "name":"rosa server",
+            "address":"mc.skele.fyi",
+            "forced":false
+        }
+    ]
+}

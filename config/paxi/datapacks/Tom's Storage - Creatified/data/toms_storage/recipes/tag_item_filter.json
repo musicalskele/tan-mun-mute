@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+		"item": "create:brass_sheet"
+		},
+		{
+		"item": "create:filter"
+		}
+	],
+	"result": {
+		"item": "toms_storage:ts.tag_item_filter"
+	}
+}

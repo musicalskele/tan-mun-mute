@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"template": {
+		"item": "minecraft:air"
+	},
+	"base": {
+		"item": "minecraft:air"
+	},
+	"addition": {
+		"item": "minecraft:air"
+	},
+	"result": {
+		"item": "minecraft:allium"
+	}
+}

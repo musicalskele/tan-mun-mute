@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+		"item": "create:andesite_alloy"
+		},
+		{
+			"item": "create:filter"
+		}
+	],
+	"result": {
+		"item": "toms_storage:ts.item_filter"
+	}
+}

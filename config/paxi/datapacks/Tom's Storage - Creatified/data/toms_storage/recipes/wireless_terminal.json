@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X#",
+		"CIG",
+		" X#"
+	],
+	"key": {
+		"#": {
+			"item": "create:brass_sheet"
+		},
+		"C": {
+			"item": "create:linked_controller"
+		},
+		"X": {
+			"item": "create:electron_tube"
+		},
+		"I": {
+			"item": "create:precision_mechanism"
+		},
+		"G": {
+			"item": "minecraft:glass"
+		}
+	},
+	"result": {
+		"item": "toms_storage:ts.wireless_terminal"
+	}
+}
