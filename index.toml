@@ -9,10 +9,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "68d450eed29e9c95fcb41fec9842f1506df0d9200ad69fda31bc6e1b96f9c08c"
 
 [[files]]
-file = "config/paxi/datapacks/Better_Hephaestus_v1.0.zip"
-hash = "647ffa059717400c8250a4aab9eef0caf7ca2111dee3cc7a6f8532240eb1df27"
-
-[[files]]
 file = "config/paxi/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
 hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
 
@@ -109,14 +105,6 @@ file = "config/paxi/resourcepacks/ccc.zip"
 hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
 
 [[files]]
-file = "files.txt"
-hash = "a0da6cf3d04a33da9935a8a797bad8aed8033c4cc1185402bc7efceec2ca4cb5"
-
-[[files]]
-file = "index.toml_files.txt"
-hash = "a0da6cf3d04a33da9935a8a797bad8aed8033c4cc1185402bc7efceec2ca4cb5"
-
-[[files]]
 file = "kubejs/server_scripts/misc/chat_sounds.js"
 hash = "32444717e7dc4c8064c008362da6dab708e3dbaba2acae3c0c29c9183e5b04f5"
 
@@ -161,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
@@ -502,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "f40488b90039380bde4615baca056eaec3afb62defccd7301a15af1c602970c3"
 metafile = true
 
 [[files]]
