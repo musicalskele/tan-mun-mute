@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/OBaHTLNk/create_ltab-3.3.5.jar"
-hash-format = "sha512"
-hash = "c5cbdf534f626585f6667c460c82d64f5c017cc6111313b226e54bcad7732d7ae9dbaa7f81bde72fbe7a4a845f683f91854cc0a1339923a8357925da08b5a4c7"
+hash-format = "sha256"
+hash = "a929cef49a9d5ca692fe05ec1c8868e1be2073dcb3689935581c75c498d7f3f0"
 
 [update]
 [update.modrinth]

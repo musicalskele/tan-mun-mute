@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/YCcdA1Lp/versions/SLPXwn6o/nmuk-1.2.1%2Bmc1.20.jar"
-hash-format = "sha512"
-hash = "92e4e4c2f63b2954446479ac5a8d04ad42c963c1fc9462857cd66953183aa51ff006277a127b76c11094bcbb33695fad978331c2e4d8d0155b75d14e4bc5a2cc"
+hash-format = "sha256"
+hash = "f05e8f5393429c62cf4aa56b00cd1b68de00df3c8d537af1f15e07c949d96863"
 
 [update]
 [update.modrinth]

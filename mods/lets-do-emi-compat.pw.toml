@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/k6hi4lMv/versions/KKmHxnri/emi-letsdo-compat-1.8.jar"
-hash-format = "sha512"
-hash = "edc7048c4dfd87f50e135d4e6ca04abac9403c9d28a2d34e025e9d3a06424e40923b3db539afaf92a87974f51999ded3aeac63d2a604bc46c0b84a750beb2d1b"
+hash-format = "sha256"
+hash = "5d2e99ff91c69a33672497865fd663f4fc9ade874cfa156a7c2bca5873fcb95c"
 
 [update]
 [update.modrinth]

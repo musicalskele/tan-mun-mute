@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/baNcxaPZ/e4mc_minecraft-fabric-5.4.1.jar"
-hash-format = "sha512"
-hash = "39436cd5094b22bd0669f08ea0883b910f16873717f6a8e3fbd92e1bf5dc9037aacf5f3d60d338c09a89f498f69cf7472da4dffa38e728961944f517b3ef7e7c"
+hash-format = "sha256"
+hash = "42d722bceb020190509d1c228d3bd9714cf9090903ba80ad2fd525fe830e70bf"
 
 [update]
 [update.modrinth]

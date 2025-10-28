@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZucWZEBV/versions/6nQWk1fq/better_climbing-fabric-3.jar"
-hash-format = "sha512"
-hash = "c6bec1500149bb59dd1a5eefda549323313747d9388da38e5347c63d4320f30aff239969a19ea2d437489ebeb1cc4ae293b55261132ac90ec57ee6c123603fb7"
+hash-format = "sha256"
+hash = "5a5edf3769d375bb04782cd42364bf86beff74fc253676bdb86065420cf27379"
 
 [update]
 [update.modrinth]

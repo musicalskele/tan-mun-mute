@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/ZtRGFjI1/Ping-Wheel-1.12.0-fabric-1.20.1.jar"
-hash-format = "sha512"
-hash = "e19138630284edc113032812431b755fccd6de19cd325e79cf5ad97fc0c9e3516ed3de0ccbeb3889aa49d58b753f4ee2ee5e22081a631c2cb48ea34a9c3dd887"
+hash-format = "sha256"
+hash = "8de20751d6c6cb8790e2512a916c5caabacb770a18eabbac4cdfeb4d4336efff"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/RWLHsKXP/supplementaries-1.20-3.1.41-fabric.jar"
-hash-format = "sha512"
-hash = "63f31edea9eadb7af4a1a221ad950128c91a1c642b1418531d5fb98dd1360216b71e9183f4ccb76e9d0fcde0f5b8fd6a1432b3af103e1c5b44798e2b35acf4ff"
+hash-format = "sha256"
+hash = "38b23467e91b4249257cbc241555f732efb1a97775d3f6d79011e4059ca86b42"
 
 [update]
 [update.modrinth]

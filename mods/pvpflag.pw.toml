@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8VovaWDa/versions/ioVSWBf4/pvpflag-1.3.0%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "13a6b1340ae7d37b96c4408631fc8c210d9894a179a4ade0fd6c6f24e6110de4f0d0cf56f7850643ef9fd0561a5c3f4467fed8fd37fdbcc27cb2e565c48db06b"
+hash-format = "sha256"
+hash = "1a70de64878b48b1f7fbf23c8c5a341e8f45bf9bc6c32ea348c7801bdea81496"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/rcLriA4v/versions/9BRqBVZY/amecs-1.4.0%2Bmc1.20.jar"
-hash-format = "sha512"
-hash = "d78af79994181321cfdd59d241e4a2e1dd12c2aab9a001fae9a4c0724ed90940e6bb99c3fd9ddee5785838e09118584290483b1f5a563924d59274ae8723033d"
+hash-format = "sha256"
+hash = "fa2279019d6516ab5c5a3fd51b9266347b3e85b7962fb33a128723663c64f8ac"
 
 [update]
 [update.modrinth]

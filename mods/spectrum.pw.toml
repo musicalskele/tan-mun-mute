@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/LISEhPJH/spectrum-1.8.8.jar"
-hash-format = "sha512"
-hash = "3f98c4b764da93bd8fec2f783e836ee3c4905c8b758dbbd7228b781c37265aa0b6a596f92cfbe3944dc6baeec758be8186cbf8cda5bed059a932e5ac3ebaeb85"
+hash-format = "sha256"
+hash = "139af583d444bb09609621fcbbeaf8977a07231e46fd5bf34036bb46b08a7816"
 
 [update]
 [update.modrinth]

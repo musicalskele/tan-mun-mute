@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/pHfYjFn0/TaxFreeLevels-1.4.14-fabric-1.20.1.jar"
-hash-format = "sha512"
-hash = "c5cdcc975579a8434a63f09b47a0dd17123c191ff9dc7f9bc2411d91abfc62801b9f39c6f5989f57475d53578b8ad28d7a1b9946c36d6fb5bbc76d7434186474"
+hash-format = "sha256"
+hash = "3e2ea56d7bc602216f8b39f9b7cfa2abe8192fe3034c723ffd16c4dc7870a124"
 
 [update]
 [update.modrinth]

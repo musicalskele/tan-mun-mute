@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Eh11TaTm/versions/txZ8qKXK/letsdo-herbalbrews-fabric-1.0.12.jar"
-hash-format = "sha512"
-hash = "c3517c065c22d6117b80bed8f135cef068319dea79a21873733c4bf2679571675363e277601d8fbffbf0b7b96427f4fc7951d2812053e99e45a9f9ac483c0d08"
+hash-format = "sha256"
+hash = "e3ed8151e25517a23af8863ed0bbdd36e0e027bcccaa1f4ac2d8cfba0549279a"
 
 [update]
 [update.modrinth]

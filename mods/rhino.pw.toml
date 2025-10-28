@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk9knFPE/versions/MLIu0Tct/rhino-fabric-2001.2.3-build.10.jar"
-hash-format = "sha512"
-hash = "5f43ca1a3d8b1e287fe177a324e8a3768235b1a07c4f0a05a87d3fe2285e0ec9a87a093b714e17a30100fe48f84f4edc32adcaa51d1f9aede1c3d89621a3cb8d"
+hash-format = "sha256"
+hash = "e205fac40f7f27abfa284b00f62d9c1cbd6da494a64cb984ebadd9d76ff5f3ee"
 
 [update]
 [update.modrinth]

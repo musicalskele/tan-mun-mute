@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/pbv4kIBG/Platform-fabric-1.20.1-1.2.10.1.jar"
-hash-format = "sha512"
-hash = "68e862c00b62a8f4b48b6028ee8c7163e8b677fff81b49f6c392240b4812e35ef6110b33cb96274ba821bc0f6510ee2e18c4cac3dff1d63330d3b9694a57bca1"
+hash-format = "sha256"
+hash = "6979467caa916c7458b3b5bf6c32e062378575ec9b1d1ce7b9d8480703fa51a8"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yXAvIk0x/versions/JfU9T1bG/Scribble-1.5.1%2Bmc1.20.1-fabric.jar"
-hash-format = "sha512"
-hash = "3364969613c36795f4b0c7c03efc694c4b399736b4fd9ef4c8a8944ec361719b7c66e3c8f3804263a2ec62662b7bb98b932ca40e0029d3fbd6ea797b59fa4ca5"
+hash-format = "sha256"
+hash = "7a56042157832495b9e714305aa73f5ce509e0ef1587b99f65abb726ec5f8b9f"
 
 [update]
 [update.modrinth]

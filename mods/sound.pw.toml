@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/EoAqSkiW/Sounds-2.2.1%2B1.20.1%2Bfabric.jar"
-hash-format = "sha512"
-hash = "b2e872a0e402135f7944bc8f8956dc4b6649469722f77ac8eb7ed12ae57d74605fd837f7df08f72d6850ee4e3347f7fca2512c92187072c9dc648fe3a5b8fbf4"
+hash-format = "sha256"
+hash = "e4d5cd2cf60913d9254a2be70c32145e22275eb5903843ec5ff66ac1138cb71f"
 
 [update]
 [update.modrinth]

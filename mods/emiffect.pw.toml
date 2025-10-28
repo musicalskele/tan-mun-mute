@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/705gWllI/versions/i1zyA9dn/emiffect-fabric-2.1.6%2Bmc1.20.1.jar"
-hash-format = "sha512"
-hash = "19f2407857ed0451c2469d1517b9421a06456e3d599ccf6c8db2811ab1c96afd5220cc4993255ce60e026a34f34f2609f1e486610157c5542dfd8cba08969d13"
+hash-format = "sha256"
+hash = "f74ea12bf423fe4b125bc35e3e65e7c3d7d29d59ab82a1d272b63c2a5698b571"
 
 [update]
 [update.modrinth]

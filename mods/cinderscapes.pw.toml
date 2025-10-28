@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QC4wcUXZ/versions/J1toYNYJ/cinderscapes-4.0.10.jar"
-hash-format = "sha512"
-hash = "7b1911e4efea0cb494fe38440d49b90deca0372d058e46a46df3027b0fd2998b47e40e48553b0816edc0bb9d3cc4200ca65042011d5245985a31aafe121ac33a"
+hash-format = "sha256"
+hash = "f4bf4b575cb71a2a37e5e749d86f399b9390dbe3b0c00d6d16cc9fbb1b49d58e"
 
 [update]
 [update.modrinth]

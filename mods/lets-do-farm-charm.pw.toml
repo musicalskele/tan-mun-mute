@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HJetCzWo/versions/sMjnKy5B/letsdo-farm_and_charm-fabric-1.0.14.jar"
-hash-format = "sha512"
-hash = "21ac172f64e88d4f942375bbcddae0a76bec483b15694f88bc816874434d4f385161b9a05e113da626159350a1e4806b3e4113121d6f170536f65a15f7fc661f"
+hash-format = "sha256"
+hash = "65df5358138969a37e3e3993128d2f0d0d78edef3a35059f1fd9659c490c17f0"
 
 [update]
 [update.modrinth]

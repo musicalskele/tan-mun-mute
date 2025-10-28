@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EltpO5cN/versions/udi9KR9R/lootr-fabric-1.20-0.7.35.85.jar"
-hash-format = "sha512"
-hash = "147fe13c491c47a380a5d0e2298187883e714dc81d135e4292b22662cf65d99a1f461eefa2b2a8da394752bfb6e04e6ff384d3472538c7a54a72cca83d370dbd"
+hash-format = "sha256"
+hash = "1c426f2df95c4cc06a4ce1af547e9a93baefb4ec487ab9672e4ca53565e6d85c"
 
 [update]
 [update.modrinth]

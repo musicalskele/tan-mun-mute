@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/c7BpYvUI/vanillabackport-fabric-1.20.1-1.1.4.3.jar"
-hash-format = "sha512"
-hash = "b96926957ce043e912751522257ed2b9749df031853a5b7839f8995f20fc2405100728a10cb5c64ceae1ced2d9462ab1147bcb5eedb037257411c373df5574e1"
+hash-format = "sha256"
+hash = "b8a87f1be6ffb62bc8a1c948498112ffdc1ddaa6fc1eda8b6167a0353de62809"
 
 [update]
 [update.modrinth]
