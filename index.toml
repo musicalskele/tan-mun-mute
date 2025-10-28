@@ -578,6 +578,11 @@ hash = "becdcc272e47d41503c7701105bd4cab68380aa1e0c6db7d7edbf06cb4d781e6"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "3035ee8fa01072374534de0f4e04547891c86b23478a64e135dde837b39bbb8d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "fa918625adcfbbcb7bcaaaa3bfcfc77e84361d4fa64c223ff41f80f50313c142"
 metafile = true
