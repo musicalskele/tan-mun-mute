@@ -1,13 +1,13 @@
 name = "Vanilla Backport: Chase the Skies, The Garden Awakens"
-filename = "vanillabackport-fabric-1.20.1-1.1.4.3.jar"
+filename = "vanillabackport-fabric-1.20.1-1.1.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/c7BpYvUI/vanillabackport-fabric-1.20.1-1.1.4.3.jar"
-hash-format = "sha256"
-hash = "b8a87f1be6ffb62bc8a1c948498112ffdc1ddaa6fc1eda8b6167a0353de62809"
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/4EIzCLkj/vanillabackport-fabric-1.20.1-1.1.5.1.jar"
+hash-format = "sha512"
+hash = "efa912fc35c7ea8db70b31274a9d2acb7b1ce5e076ed159daf620b4bbb4efbf7f3a02f6087342b1f392422df37fe15414994c3144f3bafcd3af758ecfe7fead7"
 
 [update]
 [update.modrinth]
 mod-id = "6xwxDTgf"
-version = "c7BpYvUI"
+version = "4EIzCLkj"

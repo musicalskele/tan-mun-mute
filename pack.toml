@@ -1,12 +1,12 @@
 name = "tan mun mute"
 author = "musicalskele"
-version = "0.0.5"
+version = "0.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0412f110f9cc4d8e7ca1d093b2522027c0cdeaaa10989102550844fee786d54d"
+hash = "6fa06081566b55f9f7cc85994e7afdb7ce5622645d0be1ad84561d100bf841fc"
 
 [versions]
 fabric = "0.17.3"
